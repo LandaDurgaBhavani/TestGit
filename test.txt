@@ -1,1 +1,2 @@
-This is my first text file using Git
+This is my first text file using Git.
+My name is bhavani
